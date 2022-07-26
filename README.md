@@ -1,2 +1,3 @@
 # goit-markup-hw-o1
-HW1 reloaded
+
+Homework 1 restored
